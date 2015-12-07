@@ -21,11 +21,11 @@ $ omf install homebrew-command-not-found
 
 # License
 
-[MIT][mit] © [{{USER}}][author] et [al][contributors]
+[MIT][mit] © [lfiolhais][author] et [al][contributors]
 
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/{{USER}}
+[author]:         http://github.com/lfiolhais
 [contributors]:   https://github.com/{{USER}}/pkg-homebrew-command-not-found/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
