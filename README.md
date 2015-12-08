@@ -17,7 +17,7 @@ $ omf install homebrew-command-not-found
 
 
 ## Description
-Plugin to automatically load homebrew-command-not-found into fish.
+Plugin to automatically load [homebrew-command-not-found][homebrew-command-not-found] into fish.
 <img src="http://cl.ly/image/270k2s0u3n3e/Screen%20Shot%202015-12-08%20at%2012.10.59.png"/>
 
 
@@ -30,5 +30,5 @@ Plugin to automatically load homebrew-command-not-found into fish.
 [author]:         http://github.com/lfiolhais
 [contributors]:   https://github.com/{{USER}}/pkg-homebrew-command-not-found/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
-
+[hombrew-command-not-found]: https://github.com/Homebrew/homebrew-command-not-found
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
