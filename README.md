@@ -28,7 +28,7 @@ Plugin to automatically load [homebrew-command-not-found][brew-cmd-not-found] in
 
 [mit]:            http://opensource.org/licenses/MIT
 [author]:         http://github.com/lfiolhais
-[contributors]:   https://github.com/lfiolhais/pkg-homebrew-command-not-found/graphs/contributors
+[contributors]:   https://github.com/lfiolhais/plugin-homebrew-command-not-found/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 [brew-cmd-not-found]: https://github.com/Homebrew/homebrew-command-not-found
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
