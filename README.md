@@ -16,7 +16,9 @@ $ omf install homebrew-command-not-found
 ```
 
 
-## Usage
+## Description
+Plugin to automatically load homebrew-command-not-found into fish.
+<img src="http://cl.ly/image/270k2s0u3n3e/Screen%20Shot%202015-12-08%20at%2012.10.59.png"/>
 
 
 # License
