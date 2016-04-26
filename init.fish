@@ -4,7 +4,7 @@ if type -q brew
   if [ -n "$brew_cmd" ]
     brew command command-not-found-init > /dev/null; and . (brew command-not-found-init)
   else
-    echo "Please install 'hombrew-command-not-found' first."
+    echo "Please install 'homebrew-command-not-found' first."
     echo "Check out https://github.com/Homebrew/homebrew-command-not-found"
   end
 else
